@@ -1,0 +1,33 @@
+
+body{
+  background-color: #dfdddd;
+  font-family: 'Courier New', Courier, monospace;
+}
+#title{
+  background-color: #ffffff;
+  border-radius: 300px ;
+  text-align: center;
+}
+
+#container{
+  justify-items: center;
+}
+
+.txt{
+  width: 200px;
+}
+.deletar {
+  text-decoration: line-through;
+  color: #55d145;
+}
+
+.list{
+  color: red;
+  font-size: large;
+  text-align: center;
+}
+
+li{
+  margin: 20px;
+  text-align: center;
+}
